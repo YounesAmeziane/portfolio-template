@@ -1,0 +1,16 @@
+.wrapper{
+  color: #fff;
+  padding: 220px 160px 160px 160px;
+}
+.wrapper h1{
+  font-size: 64px;
+  margin: 0 0 20px;
+}
+.wrapper p{
+  font-size: 21px;
+  margin: 0 0 20px;
+}
+span a{
+  color: #f0860c;
+  text-decoration: none;
+}
