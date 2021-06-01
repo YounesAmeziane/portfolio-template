@@ -36,5 +36,12 @@ ul li a{
 }
 .contact-page ul{
   margin: 0 0 0 50px;
-  
+}
+@media only screen and (max-device-width: 480px){
+    *{
+        
+    }
+  header{
+    padding: 0 50px; 
+  }
 }
