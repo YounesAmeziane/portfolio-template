@@ -14,3 +14,24 @@ span a{
   color: #f0860c;
   text-decoration: none;
 }
+@media only screen and (max-device-width: 480px){
+    *{
+        
+    }
+    .wrapper{
+    color: #fff;
+    padding: 200px 0 0 50px;
+    }
+    .wrapper h1{
+    font-size: 54px;
+    margin: 0 0 20px;
+    }
+    .wrapper p{
+    font-size: 11px;
+    margin: 0 0 20px;
+    }
+    span a{
+    color: #f0860c;
+    text-decoration: none;
+    }
+}
