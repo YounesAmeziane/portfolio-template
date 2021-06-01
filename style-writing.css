@@ -44,10 +44,32 @@ input[type="submit"]{
   background: rgba(27,27,27,.91);
   opacity: 0.5;
   outline: none;
+  border: 1px solid #0000;
+  border: 1px solid #000;
   border-radius: 25px;
   cursor: pointer;
 }
 .row a{
   color: var(--var-color-one);
   text-decoration: none;
+}
+@media only screen and (max-device-width: 480px){
+    *{
+        
+    }
+  header{
+    padding: 0 50px; 
+  }
+  .wrapper{
+      padding: 200px 0 0 50px;
+  }
+  .wrapper h1{
+      font-size: 54px;
+  }
+  .wrapper p{
+      font-size: 11px
+  }
+  .row textarea{
+      width: 80%
+  }
 }
