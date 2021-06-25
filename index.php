@@ -12,7 +12,7 @@
 <body>
 <?php
     include('nav.html');
-    // Function to get the client IP address
+    // Get clients IP address
     if(!empty($_SERVER["HTTP_CLIENT_IP"])){
         $ip = $_SERVER["HTTP_CLIENT_IP"];
     }elseif(!empty($_SERVER["HTTP_X_FORWAREDED_FOR"])){
@@ -37,7 +37,7 @@
         I make your dream<br> come true in two simple gestures that you will see through your eyes</p>
     <p>Sempre al tuo servizzio 24/7.</p>
     <p>Let's have fun in a parallel world!!!</p>
-    <a href="about.php" class="more">Learn more  >></a>
+    <a href="http://www.yoursite/about.php" class="more">Learn more  >></a>
 </div>
 </body>
 </html>
