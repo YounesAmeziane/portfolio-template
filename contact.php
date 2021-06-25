@@ -15,7 +15,7 @@
 <div class="contact-page">
   <h1>Welcome</h1>
   <p>
-    You can send me a message in the <span><a href="writing.php"><b>writing section</b></a></span> or in my social: 
+    You can send me a message in the <span><a href="http://www.yoursite/writing.php"><b>writing section</b></a></span> or in my social: 
   </p>
   <div class="social">
     <ul>
