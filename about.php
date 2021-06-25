@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="style-about.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css" integrity="sha384-wESLQ85D6gbsF459vf1CiZ2+rr+CsxRY0RpiF1tLlQpDnAgg6rwdsUF1+Ics2bni" crossorigin="anonymous">
-  <title>About | Leax</title>
+  <title>About Us | Leax</title>
 </head>
 <body>
 <?php 
@@ -20,7 +20,7 @@
     I started studying magic about 4 years ago, exactly in 2017,<br> and from there I never stopped it all started for fun<br> and I never thought that one day I would reach this point<br> which for me is a great goal, having been able to study magic <br>illusionism and hypnosis it was beautiful for me it's a passion<br> to make people detach for a moment from real life and bring<br> them into a world where everything is possible with what you do<br> is an extraordinary thing.<br><br>
     From a dream come true to a passion that I have been able to use in the workplace,<br> my profession can be used for any party to show or even just for a birthday.<br>
     And it is also suitable for any age; from the largest to the smallest.<br><br>
-    Have an interesting project? 	&nbsp  <span><a href="writing.php">Let's talk.</a></span>
+    Have an interesting project? 	&nbsp  <span><a href="http://ww.yoursite/writing.php">Let's talk.</a></span>
   </p>
 </div>
 </body>
